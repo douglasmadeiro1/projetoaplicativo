@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'elevate.wsgi.application'
+WSGI_APPLICATION = 'elevate.wsgi.app'
 
 
 # Database
